@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Toribio</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
 <a href="https://twitter.com/wilsontori78016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wilsontori78016" height="30" width="40" /></a>
