@@ -1,18 +1,9 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465](https://github.com/hydev777/hydev777/assets/84458390/a760a152-15e0-4862-98ec-82f4e0487e7b)  developer working... 👋
+<h1 align="center">Hi 👋, I'm Wilson Toribio</h1>
+<h3 align="center">Software developer</h3>
 
-
-<!--![Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465636f762d4630314637413f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465636f76266c6f676f436f6c6f723d7768697465.svg…]()
-
-**hydev777/hydev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wilsontori78016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wilsontori78016" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wilson-toribio-8512051b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-toribio-8512051b7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16855322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16855322" height="30" width="40" /></a>
+</p>
