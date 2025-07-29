@@ -10,6 +10,11 @@
 
 My personal portafolio [Click here](https://wt-portafolio.vercel.app).
 
-<a href="https://www.linkedin.com/in/wilson-toribio-8512051b7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
-</a>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,typescript,html,css,react,nodejs,express,git,vscode)](https://skillicons.dev)
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/wilson-toribio-8512051b7/)
+- Read more of my articles on [medium.com](https://medium.com/@spiritDevWil)
+- Stackoverflow answers [stackoverflow](https://stackoverflow.com/)
